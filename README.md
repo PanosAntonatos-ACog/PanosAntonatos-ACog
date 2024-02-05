@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PanosAntonatos-ACog)](https://git.io/streak-stats)
 
-[![Panos's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanosAntonatos-ACog&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Panos's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanosAntonatos-ACog&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanosAntonatos-ACog&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PanosAntonatos-ACog)](https://github.com/anuraghazra/github-readme-stats)
