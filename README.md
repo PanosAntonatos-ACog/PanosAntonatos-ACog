@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PanosAntonatos-ACog&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PanosAntonatos-ACog)](https://git.io/streak-stats)
+
+[![Panos's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanosAntonatos-ACog&show_icons=true&theme=radical)](https://github.com/PanosAntonatos-ACog/github-readme-stats)
