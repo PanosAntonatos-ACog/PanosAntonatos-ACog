@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 
 [![Panos's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanosAntonatos-ACog&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanosAntonatos-ACog&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanosAntonatos-ACog&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PanosAntonatos-ACog)](https://github.com/anuraghazra/github-readme-stats)
