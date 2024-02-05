@@ -9,7 +9,7 @@
 
 
 ### Contact me:
-<a href="https://www.linkedin.com/in/panosantonatos/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/panosantonatos/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="90" height="40"/></a>
 
 ### Toolset
 
@@ -69,25 +69,23 @@
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src="https://worldvectorlogo.com/download/sublime-text.svg"/></a> -->
         </td>
     </tr>
     <tr>
         <td>Testing</td>
         <td>
-            <a href=""><img src="https://brandfetch.com/junit.org/library/default/asset/idqgrLwtK3?collection=logos&view=library" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
         <td>Others/Misc</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gradle/gradle-plain.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gradle/gradle-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a>
-            <!-- <a href=""><img src=""/></a> -->
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/apachekafka/apachekafka-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a>
         </td>
     </tr>
 </table>
