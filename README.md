@@ -74,7 +74,7 @@
     <tr>
         <td>Testing</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/PanosAntonatos-ACog/junitSvg/blob/main/JUnit.svg" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
@@ -95,18 +95,20 @@
 <table>
     <tr>
         <td>
-            [![trophy](https://github-profile-trophy.vercel.app/?username=PanosAntonatos-ACog&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+            <img src="https://github-profile-trophy.vercel.app/?username=PanosAntonatos-ACog&row=3&column=4&no-bg=true&theme=transparent"/>
         </td>
         <td>
-            [![GitHub Streak](https://streak-stats.demolab.com/?user=PanosAntonatos-ACog)](https://git.io/streak-stats)
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=PanosAntonatos-ACog"/>
         </td> 
     </tr>
     <tr>
         <td>
-            ![Panos's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanosAntonatos-ACog&show_icons=true&theme=transparent)
+            <img src="https://github-readme-stats.vercel.app/api?username=PanosAntonatos-ACog&count_private=true&show_icons=true&theme=tokyonight&theme=transparent"/>
         </td>
         <td>
-            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PanosAntonatos-ACog&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanosAntonatos-ACog&langs_count=10&layout=compact&theme=transparent"/>
         </td>
     </tr>
 </table>
+
+
