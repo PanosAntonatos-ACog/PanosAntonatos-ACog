@@ -1,4 +1,4 @@
-# Hey fellow coder 👋, I'm Panos Antonatos
+# Hey there 👋, I'm Panos Antonatos
 
 ### Software/DevOps Engineer
 
